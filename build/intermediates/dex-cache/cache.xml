@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\kanghyun\AndroidStudioProjects\MovieDownLoad\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\kanghyun\AndroidStudioProjects\MovieDownLoad\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_e7a460b337df64d5ab5e45b7eedcd0098e2b4bff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kanghyun\AndroidStudioProjects\MovieDownLoad\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="73ed82889a24abcf46e3c43bd28509fc85690871">
+        <dex dex="C:\Users\kanghyun\AndroidStudioProjects\MovieDownLoad\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fc761b5f145c0b9ad7d63bd2fa86a4cf4a7806b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kanghyun\AndroidStudioProjects\MovieDownLoad\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\kanghyun\AndroidStudioProjects\MovieDownLoad\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_7583e5c352b8b2ef249d37347e34d113197970ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kanghyun\AndroidStudioProjects\MovieDownLoad\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\kanghyun\AndroidStudioProjects\MovieDownLoad\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.2.0_288eb878ae04e380a9264e6562e534eee1275003\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kanghyun\AndroidStudioProjects\MovieDownLoad\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\kanghyun\AndroidStudioProjects\MovieDownLoad\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.2.0_96648e0539ca434f073b2d3c10b093b460d055ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kanghyun\AndroidStudioProjects\MovieDownLoad\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\kanghyun\AndroidStudioProjects\MovieDownLoad\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_e5fb5c3e1cdc1c8260a2e34c16bf6bd514b352cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kanghyun\AndroidStudioProjects\MovieDownLoad\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\kanghyun\AndroidStudioProjects\MovieDownLoad\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_80047e75594f14d5e119fabcbfac2458404178db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kanghyun\AndroidStudioProjects\MovieDownLoad\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\kanghyun\AndroidStudioProjects\MovieDownLoad\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_8ee33f6feba3a4d8d2efdb796a409f4dc720113e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kanghyun\AndroidStudioProjects\MovieDownLoad\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\kanghyun\AndroidStudioProjects\MovieDownLoad\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_2d4e4c94806bbdfe29d0a4c98bb1cbeb2d07fd1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kanghyun\AndroidStudioProjects\MovieDownLoad\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\kanghyun\AndroidStudioProjects\MovieDownLoad\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_8e9b8489ed1d893843a48b4ea3a46c0b1e25ab31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kanghyun\AndroidStudioProjects\MovieDownLoad\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\kanghyun\AndroidStudioProjects\MovieDownLoad\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.2.0_aa7c1aa570b9e8136a806fd15b9d8dc1e05e61ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kanghyun\AndroidStudioProjects\MovieDownLoad\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f81a030fd9a76f8c86c24e34a0948ac09828218c">
+        <dex dex="C:\Users\kanghyun\AndroidStudioProjects\MovieDownLoad\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1926eb804e9762f322779ec4e3789484fec086c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kanghyun\AndroidStudioProjects\MovieDownLoad\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\kanghyun\AndroidStudioProjects\MovieDownLoad\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_d10526dca02f5a949b5adeb32de26cb6d7c69a10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kanghyun\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\kanghyun\AndroidStudioProjects\MovieDownLoad\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_a390fdb5051405be9cc39db921f681841f32baab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kanghyun\AndroidStudioProjects\MovieDownLoad\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\kanghyun\AndroidStudioProjects\MovieDownLoad\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_e4cee53b2895bd69a405ec587ff55510d056e246\classes.dex" />
+    </item>
+
+</items>
